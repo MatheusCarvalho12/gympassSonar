@@ -16,7 +16,7 @@ app.register(fastifySwagger, {
   openapi: {
     openapi: "3.0.3",
     info: {
-      title: "Fastify API",
+      title: "Fastify API2",
       version: "1.0.0",
       description: "API de exemplo com Fastify e Swagger",
     },
